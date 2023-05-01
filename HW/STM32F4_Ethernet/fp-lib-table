@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "KSZ8863MLLI")(type "KiCad")(uri "${KIPRJMOD}/lib/KSZ8863MLLI")(options "")(descr ""))
+  (lib (name "oled 0")(type "KiCad")(uri "${KIPRJMOD}/lib/oled 0.49")(options "")(descr ""))
+  (lib (name "RCLAMP3374N")(type "KiCad")(uri "${KIPRJMOD}/lib/RCLAMP3374N.TCT")(options "")(descr ""))
+  (lib (name "Connector")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector")(options "")(descr ""))
+  (lib (name "LU1T516-43LF")(type "KiCad")(uri "${KIPRJMOD}/lib/LU1T516-43LF")(options "")(descr ""))
+  (lib (name "OLED0_49")(type "KiCad")(uri "${KIPRJMOD}/lib/oled 0.49/OLED0_49.pretty")(options "")(descr ""))
+)
