@@ -1,0 +1,44 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "MPZ1608S601A" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "FB" (id 0) (at -7.624440625 5.08148125 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "MPZ1608S601A" (id 1) (at -7.62996875 -7.626640625 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "BEADC1608X95N" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "MPZ1608S601A_0_0"
+      (polyline
+        (pts (xy -3.81 -1.27) (xy -1.27 -3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 -3.81) (xy 3.81 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.81 1.27) (xy 1.27 3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 3.81) (xy -3.81 -1.27)) (stroke (width 0.254))
+      )
+      (pin passive line (at 7.62 0.0 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 0.0 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

@@ -685,6 +685,11 @@
     (uuid ff4006c6-24c6-40b6-96cc-34f46e93a22e)
   )
 
+  (text "1   C2P\n2   C2N\n3   C1P\n4   C1N\n5   VBAT\n6   VBREF(NC)\n7   VSS\n8   VDD\n9   RES#\n10  SCL\n11  SDA\n12  IREF\n13  VCOMH\n14  VCC"
+    (at 171.45 99.06 0)
+    (effects (font (size 1.5 1.5)) (justify left bottom))
+    (uuid 4e72b289-74ee-407a-9291-25f770cdc391)
+  )
   (text "I2C Pull-up" (at 247.65 67.31 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6e4abc67-8c7e-455b-a54a-bc8741d7b2a5)
@@ -1070,12 +1075,12 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x14") (at 166.37 81.28 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid be377026-9ffc-4705-a86f-99215a70588b)
-    (property "Reference" "J3" (id 0) (at 168.91 81.2799 0)
+    (property "Reference" "J3" (id 0) (at 165.1 102.87 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x14" (id 1) (at 168.91 83.8199 0)
+    (property "Value" "Conn_01x14" (id 1) (at 165.1 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "OLED0_49:OLED0_49" (id 2) (at 166.37 81.28 0)

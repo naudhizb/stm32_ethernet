@@ -1,4 +1,4 @@
-20910465654179531
+20912148743021422
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58449,6 +58449,13 @@ RJ45 Magjack
 0
 14
 13
+MPZ1608S601A
+BEADC1608X95N
+
+
+0
+2
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -61100,7 +61107,7 @@ OLED0_49
 
 
 0
-16
+14
 14
 OptoDevice
 ADNS-9800
