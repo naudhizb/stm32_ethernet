@@ -3,4 +3,6 @@
   (lib (name "RCLAMP3374N.TCT")(type "KiCad")(uri "${KIPRJMOD}/lib/RCLAMP3374N.TCT/RCLAMP3374N.TCT.kicad_sym")(options "")(descr ""))
   (lib (name "LU1T516-43LF")(type "KiCad")(uri "${KIPRJMOD}/lib/LU1T516-43LF/LU1T516-43LF.kicad_sym")(options "")(descr ""))
   (lib (name "MPZ1608S601A")(type "KiCad")(uri "${KIPRJMOD}/lib/MPZ1608S601A/MPZ1608S601A.kicad_sym")(options "")(descr ""))
+  (lib (name "DCP012415DBP-U")(type "KiCad")(uri "${KIPRJMOD}/lib/DCP012415DBP-U/DCP012415DBP-U.kicad_sym")(options "")(descr ""))
+  (lib (name "K6F8016U6B")(type "Legacy")(uri "${KIPRJMOD}/lib/K6F8016U6B.lib")(options "")(descr ""))
 )
