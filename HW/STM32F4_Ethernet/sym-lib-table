@@ -5,4 +5,5 @@
   (lib (name "MPZ1608S601A")(type "KiCad")(uri "${KIPRJMOD}/lib/MPZ1608S601A/MPZ1608S601A.kicad_sym")(options "")(descr ""))
   (lib (name "DCP012415DBP-U")(type "KiCad")(uri "${KIPRJMOD}/lib/DCP012415DBP-U/DCP012415DBP-U.kicad_sym")(options "")(descr ""))
   (lib (name "K6F8016U6B")(type "Legacy")(uri "${KIPRJMOD}/lib/K6F8016U6B.lib")(options "")(descr ""))
+  (lib (name "0395066003")(type "KiCad")(uri "${KIPRJMOD}/lib/0395066003/0395066003.kicad_sym")(options "")(descr ""))
 )
